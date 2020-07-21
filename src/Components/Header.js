@@ -4,9 +4,9 @@ import React from 'react'
 function Header(){
 
     return(
-        <div>
-            Header
-        </div>
+        <header  className="border-b font-bold p-3 app-header">
+            App Header
+        </header>
     )
 }
 
